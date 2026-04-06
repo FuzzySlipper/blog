@@ -1,0 +1,11 @@
+title: Blog
+description: Markdown posts published via mdpost
+theme: minima
+permalink: /:slug/
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
