@@ -9,3 +9,8 @@ defaults:
       type: posts
     values:
       layout: post
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
