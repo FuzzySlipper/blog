@@ -123,14 +123,24 @@ a:hover {
   text-transform: uppercase;
 }
 
-.hero h1,
-.post-hero h1 {
+.hero h1 {
   margin: 0;
   max-width: 14ch;
   color: var(--heading);
   font-size: clamp(2.4rem, 6vw, 4.8rem);
   line-height: 1.04;
   letter-spacing: -0.03em;
+}
+
+.post-hero h1 {
+  margin: 0;
+  max-width: 100%;
+  color: var(--heading);
+  font-size: clamp(2rem, 4.6vw, 4.2rem);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
 }
 
 .hero__lede {
