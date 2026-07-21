@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Testing 20 AI Models for Roleplay: Prose Quality and Content Boundaries"
-date: "2026-07-21 22:13:32 +0000"
+date: "2026-07-21 22:14:51 +0000"
 tags: ["ai", "roleplay", "benchmarks", "goblinbench"]
 ---
-
-# Testing 20 AI Models for Roleplay: Prose Quality and Content Boundaries
 
 Choosing a model for roleplay is not the same as choosing one for coding or factual question answering. The qualities that matter are different: dialogue, subtext, pacing, scene continuity, player agency, and the ability to stay at the requested level of romantic or sexual intensity.
 
